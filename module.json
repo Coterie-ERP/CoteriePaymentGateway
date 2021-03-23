@@ -1,0 +1,17 @@
+{
+    "alias": "coterie-payment-gateway",
+    "icon": "fa fa-credit-card",
+    "version": "1.0.0",
+    "active": 1,
+    "providers": [
+        "Modules\\CoteriePaymentGateway\\Providers\\Event",
+        "Modules\\CoteriePaymentGateway\\Providers\\Main"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "reports": [],
+    "widgets": [],
+    "settings": [],
+    "extra-modules": {}
+}
